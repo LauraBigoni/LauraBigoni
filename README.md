@@ -1,5 +1,7 @@
 ### Hi there i'm Laura👋
 
+![image](https://user-images.githubusercontent.com/92325729/158207567-d3d9b669-aaf8-4557-a9e8-27f1d2358eee.png) I'm a Boolean student
+
 📍 *Based in:* Arezzo, Tuscany   
 📫 *How to reach me:* laurabigoni.92@gmail.com   
 ⚡*Fun facts:* I love to travel, listening to music, coding and playing videogames
