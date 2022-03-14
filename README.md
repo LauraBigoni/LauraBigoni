@@ -2,7 +2,7 @@
 
 📍 *Based in:* Arezzo, Tuscany   
 📫 *How to reach me:* laurabigoni.92@gmail.com   
-⚡*Fun facts:* I love to travel, listening to music, playing videogames, coding and everything that's aesthetic
+⚡*Fun facts:* I love to travel, listening to music, coding and playing videogames
 
 ---
 
