@@ -1,7 +1,8 @@
 ### Hi there i'm Laura👋
 
-📌 *Based in:* Arezzo, Tuscany   
-📫 *How to reach me:* laurabigoni.92@gmail.com
+📍 *Based in:* Arezzo, Tuscany   
+📫 *How to reach me:* laurabigoni.92@gmail.com   
+⚡*Fun facts:* I love to: travel, music, videogames and aesthetics
 
 ---
 
