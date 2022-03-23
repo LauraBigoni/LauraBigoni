@@ -1,6 +1,6 @@
 ### Hi there i'm Laura👋
 
-🎓 I'm a Boolean student currently learnng full stack web developing
+🎓 I'm a Boolean student currently learning full stack web developing
 
 📍 *Based in:* Arezzo, Tuscany   
 📫 *How to reach me:* laurabigoni.92@gmail.com   
