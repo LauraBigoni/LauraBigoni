@@ -46,5 +46,4 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={LauraBigoni})
-![Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{LauraBigoni}1212%2Fhit-counter)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraBigoni)
