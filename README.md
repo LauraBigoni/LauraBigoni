@@ -1,12 +1,12 @@
 ### Hi there i'm Laura👋
 
-🎓 I'm a Boolean Careers graduated student currently learning Full Stack Web Developing
+🎓 I'm a Boolean Careers graduated Full Stack Web Developer.
 
 📍 *Based in:* Arezzo, Tuscany   
 📫 *How to reach me:* laurabigoni.92@gmail.com   
 ⚡*Fun facts:* I love to travel, listening to music, coding and playing videogames
 
----
+![Sparkline](https://stars.medv.io/Naereen/badges.svg)
 
 🌱 *I’m currently learning:*   
 ![VITE](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
@@ -44,7 +44,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 
----
+![Sparkline](https://stars.medv.io/Naereen/badges.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraBigoni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
