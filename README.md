@@ -6,8 +6,6 @@
 📫 *How to reach me:* laurabigoni.92@gmail.com   
 ⚡*Fun facts:* I love to travel, listening to music, coding and playing videogames
 
-![Sparkline](https://stars.medv.io/Naereen/badges.svg)
-
 🎯 *I’m currently learning:*   
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -41,6 +39,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 
-![Sparkline](https://stars.medv.io/Naereen/badges.svg)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LauraBigoni&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraBigoni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
