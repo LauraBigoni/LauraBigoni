@@ -26,6 +26,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraBigoni&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)   
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LauraBigoni&theme=monokai&no-frame=true&no-bg=true&margin-w=15&margin-h=15)
+![](https://github-profile-trophy.vercel.app/?username=LauraBigoni&theme=monokai&no-frame=true&no-bg=true&rank=-C&title=Followers,&margin-w=15&margin-h=15)
 
 [![](https://visitcount.itsvg.in/api?id=LauraBigoni&label=Profile%20Views&color=5&icon=4&pretty=true)](https://visitcount.itsvg.in)
