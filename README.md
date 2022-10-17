@@ -1,6 +1,6 @@
 # Hi there i'm Laura👋
 
-🎓 I'm a Boolean Careers graduated Full Stack Web Developer.
+🎓 I'm a Boolean Careers graduated Full Stack Web Developer.   
 📍 *Based in:* Arezzo, Tuscany   
 📫 *How to reach me:* laurabigoni.92@gmail.com   
 ⚡*Fun facts:* I love to travel, listening to music, coding and playing videogames
