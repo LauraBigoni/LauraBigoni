@@ -1,4 +1,4 @@
-# Hi there i'm Laura👋
+## Hi there i'm Laura👋
 
 🎓 I'm a Boolean Careers graduated Full Stack Web Developer.   
 📍 *Based in:* Arezzo, Tuscany   
