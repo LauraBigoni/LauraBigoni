@@ -40,6 +40,6 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LauraBigoni&theme=flat&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=LauraBigoni&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraBigoni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
