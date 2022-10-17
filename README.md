@@ -46,3 +46,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LauraBigoni&theme=monokai&no-frame=true&no-bg=true&margin-w=15&margin-h=15)
+
+[![](https://visitcount.itsvg.in/api?id=LauraBigoni&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
