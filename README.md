@@ -20,9 +20,9 @@
 ![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LauraBigoni&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)   
+![](https://github-readme-stats-kappa-sand-37.vercel.app/api?username=LauraBigoni&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LauraBigoni&theme=dracula&hide_border=false)   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraBigoni&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)   
+![](https://github-readme-stats-kappa-sand-37.vercel.app/api/top-langs/?username=LauraBigoni&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)   
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LauraBigoni&theme=monokai&no-frame=true&no-bg=true&rank=-C&title=Followers,Repositories,Commits,PullRequest&margin-w=15&margin-h=15&column=-1)
