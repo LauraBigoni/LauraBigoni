@@ -19,12 +19,14 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats-kappa-sand-37.vercel.app/api?username=LauraBigoni&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)   
+### 📊 GitHub Stats: 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LauraBigoni&theme=dracula&hide_border=false)   
-![](https://github-readme-stats-kappa-sand-37.vercel.app/api/top-langs/?username=LauraBigoni&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)   
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LauraBigoni&theme=monokai&no-frame=true&no-bg=true&rank=-C&title=Followers,Repositories,Commits,PullRequest&margin-w=15&margin-h=15&column=-1)
+
+
+### 🎧 Spotify Now playing
+[![Spotify](https://novatorem-laurabigoni.vercel.app//api/spotify/?background_color=FF000000&border_color=ffffff)](https://open.spotify.com/user/Laura-Whip)   
 
 [![](https://visitcount.itsvg.in/api?id=LauraBigoni&label=Profile%20Views&color=5&icon=4&pretty=true)](https://visitcount.itsvg.in)
