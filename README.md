@@ -1,4 +1,4 @@
-## Hi there i'm Laura👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=32&duration=3000&pause=500&color=BA91F7&vCenter=true&width=600&lines=Hello+there+%F0%9F%91%8B%F0%9F%8F%BB;My+name+is+Laura;Nice+to+meet+you!;Welcome+to+my+profile+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 🎓 I'm a Full Stack Web Developer.   
 📍 Based in Arezzo, Tuscany   
@@ -27,7 +27,7 @@
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=lauraBigoni&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)   
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LauraBigoni&theme=monokai&no-frame=true&no-bg=true&rank=-C&title=Followers,Repositories,Commits,PullRequest&margin-w=15&margin-h=15&column=-1)   
+![](https://github-profile-trophy.vercel.app/?username=LauraBigoni&theme=tokyonight&no-frame=true&no-bg=true&rank=-C&title=Followers,Repositories,Commits,PullRequest&margin-w=15&margin-h=15&column=-1)   
 
 ### 🎧 Spotify Now playing
 [![Spotify](https://novatorem-laurabigoni.vercel.app//api/spotify/?background_color=FF000000&border_color=FF000000)](https://open.spotify.com/user/Laura-Whip)   
