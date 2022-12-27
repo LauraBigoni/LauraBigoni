@@ -60,4 +60,4 @@
 <div align="center"><img src="https://novatorem-laurabigoni.vercel.app//api/spotify/?background_color=FF000000&border_color=FF000000" /></div>
 
 <div align="center"><img src="https://visitcount.itsvg.in/api?id=LauraBigoni&label=Profile%20Views&color=12&icon=0&pretty=true" /></div>
-
+<div align="center"><img src="https://img.shields.io/github/followers/LauraBigoni?label=follow&style=social" /></div>
