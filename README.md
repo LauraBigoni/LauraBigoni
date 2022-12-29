@@ -50,7 +50,7 @@
 <h3 align="center">🏆 Github Stats</h3>   
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=LauraBigoni&theme=tokyonight&hide_border=true&border_radius=50" align="center" />
-<div><img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=lauraBigoni&hide_title=true&hide_border=true&langs_count=6&bg_color=00000000&text_color=e0e0e0" /></div>
+<div><img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=lauraBigoni&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=e0e0e0" /></div>
 <div><img src="https://github-profile-trophy.vercel.app/?username=LauraBigoni&theme=tokyonight&no-frame=true&no-bg=true&rank=-C&title=Followers,Repositories,Commits,PullRequest&margin-w=15&margin-h=15&column=-1" /></div>
 </div>
 
