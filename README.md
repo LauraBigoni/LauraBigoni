@@ -27,7 +27,7 @@
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 </div>  
 
-<br />
+<br /><br />
 
 <div align="center">  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
@@ -65,5 +65,8 @@
 <h3 align="center">🎧 Spotify Now playing</h3>   
 <div align="center"><img src="https://novatorem-laurabigoni.vercel.app//api/spotify/?background_color=FF000000&border_color=FF000000" /></div>
 
-<div align="center"><img src="https://visitcount.itsvg.in/api?id=LauraBigoni&label=Profile%20Views&color=12&icon=0&pretty=true" /></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=lauraBigoni&style=for-the-badge&color=ff69b4" /></div>
+
+<br />
+
 <div align="center"><img src="https://img.shields.io/github/followers/LauraBigoni?label=follow&style=social" /></div>
