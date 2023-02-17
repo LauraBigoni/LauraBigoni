@@ -8,7 +8,7 @@
 <div align="center">• 💻 Passionate about programming since i was a kid</div>  
 <div align="center">• 🎮 I love videogames, anime and manga</div>  
 <div align="center">• 💮 I'd like to visit Japan and South Korea one day</div>  
-<div align="center">• ⚡ Fun fact: I never code without some good music</div>
+<div align="center">• ⚡ Fun fact: I never code without some music</div>
 
 <br/>
 
