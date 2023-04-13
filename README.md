@@ -3,12 +3,13 @@
 </div>  
 
 ### <div align="center"> I'm a Full Stack Web Developer 🚀</div>  
-<div align="center">• 🗺️ Based in a hill town city in Arezzo, Tuscany, Italy</div>  
-<div align="center">• 🎓 I’m currently learning Angular and Typescript</div>  
-<div align="center">• 💻 Passionate about programming since i was a kid</div>  
-<div align="center">• 🎮 I love videogames, anime and manga</div>  
-<div align="center">• 💮 I'd like to visit Japan and South Korea one day</div>  
-<div align="center">• ⚡ Fun fact: I never code without some music</div>
+<div align="center">🇮🇹 Based in a hill town city in Arezzo, Tuscany, Italy</div>  
+<div align="center">📚 I’m currently learning Angular and Typescript</div>  
+<div align="center">💻 Passionate about programming since i was a kid</div>  
+<div align="center">🎮 I love videogames, anime and manga</div>  
+<div align="center">💮 I'd like to visit Japan and South Korea one day</div>  
+<div align="center">✍🏻 Also I'm currently learning Korean by myself</div>  
+<div align="center">🎧 I never code without some music</div>
 
 <br/>
 
