@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=32&duration=3000&pause=800&color=C98CF7&center=true&vCenter=true&width=600&lines=Hello+there+%F0%9F%91%8B%F0%9F%8F%BB;My+name+is+Laura;Nice+to+meet+you!;welcome+to+my+profile+%F0%9F%AB%B0%F0%9F%8F%BB" align="center" height="" width="400" />
 </div>  
 
-### <div align="center"> I'm a Full Stack Web Developer 🚀</div>  
+<h3 align="center"> I'm a Full Stack Web Developer 🚀</h3>  
 <div align="center">🇮🇹 Based in a hill town city in Arezzo, Tuscany, Italy</div>  
 <div align="center">📚 I’m currently learning Angular and Typescript</div>  
 <div align="center">💻 Passionate about programming since i was a kid</div>  
@@ -11,7 +11,7 @@
 <div align="center">✍🏻 Also I'm currently learning Korean by myself</div>  
 <div align="center">🎧 I never code without some music</div>
 
-<br/>
+<br />
 
 <h3 align="center">👩🏻‍💻 My Skill Set</h3>    
 <div align="center">
@@ -28,7 +28,8 @@
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 </div>  
 
-<br /><br />
+<br />
+<br />
 
 <div align="center">  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
@@ -40,7 +41,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>  
 
-<br/>
+<br />
 
 <h3 align="center">📎 Connect with me </h3>   
 <div align="center">
@@ -52,16 +53,17 @@
 </a>  
 </div>  
 
-<br/>
+<br />
 
 <h3 align="center">🏆 Github Stats</h3>   
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=LauraBigoni&theme=tokyonight&hide_border=true&border_radius=50" align="center" />
-<div><img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=lauraBigoni&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=e0e0e0" /></div>
-<div><img src="https://hacked-github-stat-trophies-ten.vercel.app/?username=LauraBigoni&theme=discord&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=18&margin-h=10&title=MultiLanguage,AllSuperRank,Commit,Repositories,PullRequest&no-bg=true" /></div>
+<img src="https://streak-stats.demolab.com?user=LauraBigoni&theme=tokyonight&hide_border=true&border_radius=50" align="center" />     
+<br />
+<br />
+<img src="https://hacked-github-stat-trophies-ten.vercel.app/?username=LauraBigoni&theme=discord&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=18&margin-h=10&title=MultiLanguage,AllSuperRank,Commit,Repositories,PullRequest&no-bg=true" />
 </div>
 
-<br/>
+<br />
 
 <h3 align="center">🎧 Spotify Now playing</h3>   
 <div align="center"><img src="https://novatorem-laurabigoni.vercel.app/api/spotify/?background_color=FF000000&border_color=FF000000" /></div>
