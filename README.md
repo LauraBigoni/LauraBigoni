@@ -65,9 +65,6 @@
 
 <br />
 
-<h3 align="center">🎧 Spotify Now playing</h3>   
-<div align="center"><img src="https://novatorem-laurabigoni.vercel.app/api/spotify/?background_color=FF000000&border_color=FF000000" /></div>
-
 <div align="center"><img src="https://komarev.com/ghpvc/?username=lauraBigoni&style=for-the-badge&color=ff69b4" /></div>
 
 <br />
