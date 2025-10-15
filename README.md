@@ -57,9 +57,6 @@
 
 <h3 align="center">🏆 Github Stats</h3>   
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=LauraBigoni&theme=tokyonight&hide_border=true&border_radius=50" align="center" />     
-<br />
-<br />
 <img src="https://hacked-github-stat-trophies-ten.vercel.app/?username=LauraBigoni&theme=discord&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=18&margin-h=10&title=MultiLanguage,AllSuperRank,Commit,Repositories,PullRequest&no-bg=true" />
 </div>
 
